@@ -33,8 +33,8 @@ create database moviedb;
 __#1__
 
 ```
-When I click 'Add a Movie'
-Then I should see a form to add a new movie
+When I click 'Add a Movie' CHECK!
+Then I should see a form to add a new movie CHECK!
 ```
 
 __#2__
